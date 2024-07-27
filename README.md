@@ -1,4 +1,3 @@
-```markdown
 # Object Detection and Tracking on CCTV Footage
 
 This project demonstrates how to perform object detection and tracking on CCTV footage using YOLOv8 and Supervision libraries. The code is designed to be run in Google Colab and includes functionality for processing both individual video frames and entire videos.
@@ -20,7 +19,6 @@ This project demonstrates how to perform object detection and tracking on CCTV f
 
    ```python
    !pip install ultralytics supervision
-   ```
 
 ## Usage
 
